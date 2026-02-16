@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ばぶちぃね！",
+  "base_artist": "XP!A",
+  "createdAt": "2026-02-16T08:11:24.346147Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ばぶちぃね!",
+      "artist": "XP!A",
+      "has_synced": false,
+      "path": "select/pl_01_ばぶちぃね!_XP!A.txt"
+    }
+  ]
+}
